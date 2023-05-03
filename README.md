@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @benzsutee
+<--- 👋 Hi, I’m @benzsutee -->
+[Success comes from Thinking, Learning and Doing.]
+
 - 👀 I’m interested in computer programming, IT, IoT, Web App.
-- 🌱 I’m currently learning python programming.
+- 🌱 I’m currently learning Python HTML&CSS, MicroBit.
 - 📫 How to reach me by e-mail:suteepha@gmail.com
 
 <!---
